@@ -46,4 +46,4 @@ Copyright (c) 2019 Sharon Lee
   Input: 1 (loaf of bread) 3 (pastry)
   Output: Your total will be $10.
 
-![](https://images.app.goo.gl/XxaVe3Ft8q2Nhi65A)
+![](https://media.giphy.com/media/3orieLWYouYT4W0bF6/200w_d.gif)
