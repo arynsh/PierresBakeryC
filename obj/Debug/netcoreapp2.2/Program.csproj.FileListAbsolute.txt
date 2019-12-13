@@ -1,0 +1,11 @@
+/Users/sharon/Desktop/PierresBakery/obj/Debug/netcoreapp2.2/Program.csprojAssemblyReference.cache
+/Users/sharon/Desktop/PierresBakery/obj/Debug/netcoreapp2.2/Program.csproj.CoreCompileInputs.cache
+/Users/sharon/Desktop/PierresBakery/obj/Debug/netcoreapp2.2/Program.AssemblyInfoInputs.cache
+/Users/sharon/Desktop/PierresBakery/obj/Debug/netcoreapp2.2/Program.AssemblyInfo.cs
+/Users/sharon/Desktop/PierresBakery/bin/Debug/netcoreapp2.2/Program.deps.json
+/Users/sharon/Desktop/PierresBakery/bin/Debug/netcoreapp2.2/Program.runtimeconfig.json
+/Users/sharon/Desktop/PierresBakery/bin/Debug/netcoreapp2.2/Program.runtimeconfig.dev.json
+/Users/sharon/Desktop/PierresBakery/bin/Debug/netcoreapp2.2/Program.dll
+/Users/sharon/Desktop/PierresBakery/bin/Debug/netcoreapp2.2/Program.pdb
+/Users/sharon/Desktop/PierresBakery/obj/Debug/netcoreapp2.2/Program.dll
+/Users/sharon/Desktop/PierresBakery/obj/Debug/netcoreapp2.2/Program.pdb
